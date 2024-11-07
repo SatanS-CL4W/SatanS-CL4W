@@ -26,7 +26,7 @@
 <a href="https://auth.geeksforgeeks.org/user/kumarraunak42003/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarraunak42003/profile" height="30" width="40" /></a>
 </p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Vegeta_1998&theme=black&border=border&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Vegeta_1998&theme=black&border=border&animated=true" alt="LeetCode Badges"/> <img src="https://leetcard.jacoblin.cool/Vegeta_1998?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats">
 
 
 <h3 align="left">Languages and Tools:</h3>
