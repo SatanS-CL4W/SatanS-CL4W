@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blogging Application**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops and Java Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SatanS-CL4W](https://github.com/SatanS-CL4W)
 
