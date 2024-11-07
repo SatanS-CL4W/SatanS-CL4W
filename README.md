@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **You can't breathe through your nose, with your tongue out.**
 
-- <img src="https://leetcode-badge-showcase.vercel.app/api?username={Vegeta_1998}&animated=true" alt="LeetCode Badges"/>
+- <img src="https://leetcode-badge-showcase.vercel.app/api?username=Vegeta_1998&theme=black&border=border&animated=true" alt="LeetCode Badges"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
