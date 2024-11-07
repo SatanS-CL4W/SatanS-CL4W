@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blogging Application**
 - 🌱 I’m currently learning **DevOps and Java Backend Development**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SatanS-CL4W)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SatanS-CL4W?tab=repositories)
 - 💬 Ask me about **Java, Spring Boot, REST APIs**
 - 📫 Reach me at **kumarraunak42003@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/194vE9A8gj4YU0s6SgcmsAexYbm6N20YC/view)
