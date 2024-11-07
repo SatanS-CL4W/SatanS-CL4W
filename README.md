@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops and Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SatanS-CL4W](https://github.com/SatanS-CL4W)
+- 👨‍💻 All of my projects are available at [https://github.com/SatanS-CL4W](https://github.com/SatanS-CL4W?tab=repositories)
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs**
 
@@ -18,13 +18,7 @@
 - ⚡ Fun fact **You can't breathe through your nose, with your tongue out.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kumar-raunak-527904262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-raunak-527904262" height="30" width="40" /></a>
-<a href="https://instagram.com/hey.raunak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hey.raunak" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/monkeydzoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monkeydzoro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vegeta_1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vegeta_1998" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kumarraunak42003/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarraunak42003/profile" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/kumar-raunak-527904262" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> <a href="https://instagram.com/hey.raunak" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/> </a> <a href="https://www.codechef.com/users/monkeydzoro" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/> </a> <a href="https://www.leetcode.com/vegeta_1998" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/> </a> <a href="https://auth.geeksforgeeks.org/user/kumarraunak42003/profile" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40"/> </a> </p>
 
 <p align="center"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=Vegeta_1998&theme=black&border=border&animated=true" alt="LeetCode Badge"/> <img src="https://leetcard.jacoblin.cool/Vegeta_1998?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="LeetCode Stats"/> </p>
 
