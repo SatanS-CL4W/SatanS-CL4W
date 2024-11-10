@@ -37,66 +37,130 @@
   <img src="https://leetcard.jacoblin.cool/Vegeta_1998?theme=dark&font=Baloo%20Da%202&ext=heatmap" alt="Leetcode stats"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  </span>
-  <span style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" />
-  </span>
-</p>
+<h2 align="center">I'm diving into and experimenting with a wide range of tools, programming languages, and technologies! 💻🚀🔧</h2>
+<div align="center">
+<table>
+  <tr>
+    <td align="left" width="100">
+      <b>Programming:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.programiz.com/c-programming" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.learncpp.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>Web Technologies:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>Tools:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" />
+      </a>
+      <br>GCP
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="100">
+      <b>Operating Systems:</b>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" />
+      </a>
+      <br>Raspberry Pi
+    </td>
+  </tr>
+</table>
+</div>
