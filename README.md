@@ -80,6 +80,12 @@
       <b>Web Technologies:</b>
     </td>
     <td align="center" width="96">
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
       <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" />
       </a>
@@ -102,12 +108,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
       </a>
       <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" />
-      </a>
-      <br>CSS3
     </td>
   </tr>
   <tr>
@@ -143,23 +143,6 @@
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" />
       </a>
       <br>GCP
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="100">
-      <b>Operating Systems:</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" />
-      </a>
-      <br>Raspberry Pi
     </td>
   </tr>
 </table>
