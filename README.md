@@ -1,7 +1,8 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=900&size=29&duration=3000&pause=1500&color=1BE3A5&random=false&width=435&lines=Satans-Cl4W+booting+up......;+Pleasure+to+meet+everyone." alt="Typing SVG" /></a>
 </h1>
-<h3 align="center"><h1 align="center">Hi, I'm Kumar Raunak</h1><br>A passionate Java Full Stack Developer from India</h3>
+<h1 align="center">Hi, I'm Kumar Raunak</h1>
+<h2 align="center">A passionate Java Full Stack Developer from India</h2>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=satans-cl4w&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
