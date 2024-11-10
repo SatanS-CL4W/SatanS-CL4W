@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=900&size=29&duration=3000&pause=1500&color=1BE3A5&random=false&width=435&lines=Satans-Cl4W+booting+up......;+Pleasure+to+meet+everyone." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech&weight=900&size=29&duration=3000&pause=1500&color=1BE3A5&random=false&width=435&lines=SatanS-CL4W+booting+up......;+Pleasure+to+meet+everyone." alt="Typing SVG" /></a>
 </h1>
 <h1 align="center">Hi, I'm Kumar Raunak</h1>
 <h2 align="center">A passionate Java Full Stack Developer from India</h2>
